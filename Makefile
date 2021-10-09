@@ -1,5 +1,5 @@
-./a.out:
-	clang++ -g -O3 kaleidoscope.c `llvm-config --cxxflags`
+toy:
+	clang++ -g -O3 toy.cpp `llvm-config --cxxflags --ldflags --system-libs --libs core` -o toy
 
-run: ./a.out
-	./a.out
+run:
+	./toy
