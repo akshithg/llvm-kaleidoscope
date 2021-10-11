@@ -9,3 +9,4 @@
 6. Kaleidoscope: Extending the Language: User-defined Operators
 7. Kaleidoscope: Extending the Language: Mutable Variables
 8. Kaleidoscope: Compiling to Object Code
+9. Kaleidoscope: Adding Debug Information
