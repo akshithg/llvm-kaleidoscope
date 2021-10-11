@@ -1,3 +1,4 @@
 .vscode
 toy
 *.dSYM
+output.o

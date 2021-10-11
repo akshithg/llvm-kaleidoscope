@@ -8,3 +8,4 @@
 5. Kaleidoscope: Extending the Language: Control Flow
 6. Kaleidoscope: Extending the Language: User-defined Operators
 7. Kaleidoscope: Extending the Language: Mutable Variables
+8. Kaleidoscope: Compiling to Object Code
