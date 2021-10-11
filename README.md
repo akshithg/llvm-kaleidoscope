@@ -10,3 +10,4 @@
 7. Kaleidoscope: Extending the Language: Mutable Variables
 8. Kaleidoscope: Compiling to Object Code
 9. Kaleidoscope: Adding Debug Information
+10. Kaleidoscope: Conclusion and other useful LLVM tidbits
